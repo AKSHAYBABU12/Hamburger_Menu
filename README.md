@@ -1,7 +1,5 @@
 # Hamburger_Menu
-A hamburger menu is a button, typically found in the top corner of a website or app!
-
-[Hamburgar menu](https://github.com/user-attachments/assets/91a43501-03c9-461d-9302-8e74fe7b1294)
+A hamburger menu is a button, typically found in the top corner of a website or app![Hamburgar menu](https://github.com/user-attachments/assets/91a43501-03c9-461d-9302-8e74fe7b1294)
 
 
 
